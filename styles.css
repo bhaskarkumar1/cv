@@ -33,6 +33,7 @@ hr {
   border: dotted #EAF6F6 6px;
   width: 4%;
   margin: 100px auto;
+  border-bottom: 0px;
 }
 
 p {
